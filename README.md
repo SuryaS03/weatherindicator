@@ -1,3 +1,25 @@
+This is my first react app using the API.So it is very simple and basic to learn .
+1)You can fork it from my repository and clone it your computer.
+2)Go inside the folder,in the addressbar type "cmd" it will route to command prompt.
+3) in the command prompt type "code ". (it works only for VS code editor)
+4)run it ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
